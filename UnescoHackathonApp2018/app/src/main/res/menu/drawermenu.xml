@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/skincancer" android:title="Skin Cancer" android:icon="@drawable/ic_skincancer"/>
+    <item android:id="@+id/BluetoothSetting" android:title="Bluetooth Setting" android:icon="@drawable/ic_bluetooth"/>
+
+</menu>
